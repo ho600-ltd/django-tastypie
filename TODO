@@ -13,6 +13,7 @@ Daniel:
     - ``DigestAuthentication``
 - More integration tests (intermediate, advanced, composite, non-model)
 
+Compatible with Django-2.2
 
 Long Term
 ---------
